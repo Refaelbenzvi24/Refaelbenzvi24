@@ -44,6 +44,7 @@
 <p>
   <div class="github-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=refaelbenzvi24&theme=github_dark&show_icons=true&hide=issues"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaelbenzvi24&theme=github_dark&show_icons=true" />
   </div>
 </p>
 
