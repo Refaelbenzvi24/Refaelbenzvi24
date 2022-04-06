@@ -41,12 +41,8 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu)
 
-<p>
-  <div class="github-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=refaelbenzvi24&theme=github_dark&show_icons=true&hide=issues"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaelbenzvi24&theme=github_dark&show_icons=true" />
-  </div>
-</p>
+<img  src="https://github-readme-stats.vercel.app/api?username=refaelbenzvi24&theme=github_dark&show_icons=true&hide=issues"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaelbenzvi24&theme=github_dark&show_icons=true" />
 
 ### 📝 Contact Me
 
