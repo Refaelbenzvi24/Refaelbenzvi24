@@ -20,6 +20,7 @@
 - 🧰 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=1a73e8)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=ffdd54)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -34,12 +35,11 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
-  ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=1e7fd9)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu)
+
+- ☁️ &nbsp;
+  ![Gcloud](https://img.shields.io/badge/-GCloud-333333?style=flat&logo=googlecloud)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  
 
 <img  src="https://github-readme-stats.vercel.app/api?username=refaelbenzvi24&theme=github_dark&show_icons=true&hide=issues"/>
 
