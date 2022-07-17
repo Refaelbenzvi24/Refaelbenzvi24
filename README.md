@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm [Refael Ben Zvi](https://github.com/Refaelbenzvi24) 👨‍💻
-<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Refaelbenzvi24&label=Profile%20views&color=0e75b6&style=flat" alt="Refaelbenzvi24" /> </p>
 
 
