@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Refael Ben Zvi](https://github.com/Refaelbenzvi24) 👨‍💻
 
-<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="right" alt="GIF" height="130px" src="./Logo.png">
 <br />
 
 
