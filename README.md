@@ -3,6 +3,7 @@
 <img align="right" alt="GIF" height="130px" src="./Logo.png">
 <br />
 
+[Check Out My Portfolio!](https://refaelbenzvi.netlify.app)
 
 <h3> 💻 &nbsp;About Me </h3>
 
@@ -42,8 +43,6 @@
   
 
 <img  src="https://github-readme-stats.vercel.app/api?username=refaelbenzvi24&theme=github_dark&show_icons=true&hide=issues"/>
-
-[Check Out My Portfolio!](https://refaelbenzvi.netlify.app)
 
 ### 📝 Contact Me
 
