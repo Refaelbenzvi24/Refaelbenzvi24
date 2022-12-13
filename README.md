@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm [Refael Ben Zvi](https://github.com/Refaelbenzvi24) 👨‍💻
 
-<img align="right" alt="GIF" height="130px" src="./Logo.png">
+<a href=""https://refaelbenzvi.netlify.app/>
+  <img align="right" alt="GIF" height="130px" src="./Logo.png">
+</a>
 <br />
 
 [Check Out My Portfolio!](https://refaelbenzvi.netlify.app)
