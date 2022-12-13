@@ -2,7 +2,7 @@
 
 <a href=""https://refaelbenzvi.netlify.app/>
   <img align="right" alt="GIF" height="130px" src="./Logo.png">
-</a>
+<a/>
 <br />
 
 [Check Out My Portfolio!](https://refaelbenzvi.netlify.app)
