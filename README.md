@@ -44,7 +44,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
 
-<img  src="https://github-readme-stats.vercel.app/api?username=refaelbenzvi24&theme=github_dark&show_icons=true&hide=issues"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=refaelbenzvi24&theme=github_dark&show_icons=true"/>
 
 ### 📝 Contact Me
 
